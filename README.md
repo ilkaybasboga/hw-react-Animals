@@ -28,7 +28,7 @@ yarn.lock
 ![Project gif](./src/assets/animal_gif.gif)
 
 
-### At the end of the project, following topics are to be covered;
+### At the end of the project, I will learn the following topics;
 - REACT
 
 - HTML 
